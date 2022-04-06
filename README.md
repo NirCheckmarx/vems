@@ -128,7 +128,7 @@ VEMS 1.0 consist of three tables
 
 
 
-
+--cx-flow.zip-exclude="\\.git\\/.\*,\\.github\\/.\*,tests\\/.\*,.\+\\/tests\\/.\*
 
 
 
